@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro valente Toledo
+Matricula: 880161
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de tela 2025-02-28 152549.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de tela 2025-02-28 153054.png>)
